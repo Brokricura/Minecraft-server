@@ -1,7 +1,7 @@
 ---- Minecraft Crash Report ----
-// Surprise! Haha. Well, this is awkward.
+// Who set us up the TNT?
 
-Time: 2024-07-16 19:42:55
+Time: 2024-07-16 19:44:06
 Description: Exception in server tick loop
 
 java.lang.IllegalStateException: Failed to initialize server
@@ -20,7 +20,7 @@ Details:
 	Operating System: Linux (amd64) version 6.5.0-1022-azure
 	Java Version: 21.0.3, Microsoft
 	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
-	Memory: 2886851280 bytes (2753 MiB) / 3045064704 bytes (2904 MiB) up to 10737418240 bytes (10240 MiB)
+	Memory: 2938088200 bytes (2801 MiB) / 3087007744 bytes (2944 MiB) up to 10737418240 bytes (10240 MiB)
 	CPUs: 4
 	Processor Vendor: AuthenticAMD
 	Processor Name: AMD EPYC 7763 64-Core Processor
@@ -36,7 +36,7 @@ Details:
 	Graphics card #0 deviceId: unknown
 	Graphics card #0 versionInfo: unknown
 	Virtual memory max (MB): 7990.52
-	Virtual memory used (MB): 5891.07
+	Virtual memory used (MB): 5770.62
 	Swap memory total (MB): 0.00
 	Swap memory used (MB): 0.00
 	JVM Flags: 2 total; -Xms2G -Xmx10G
